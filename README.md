@@ -3,6 +3,7 @@ ALFABETO
 A
 B
 C
+E
 F
 G
 I
