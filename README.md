@@ -3,4 +3,5 @@
 ALFABETO
 
 B
-c
+C
+G
