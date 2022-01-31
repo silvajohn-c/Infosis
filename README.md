@@ -3,7 +3,10 @@ ALFABETO
 A
 B
 C
+F
 G
 I
 O
+P
 Y
+>>>>>>> 166a5ad382d16354e3866001aa4c2bb9704e3f5d
