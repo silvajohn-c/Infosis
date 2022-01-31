@@ -1,5 +1,10 @@
 # Infosis
-b
-c
-d
-l
+ALFABETO
+
+B
+C
+D
+G
+L
+O
+Y
