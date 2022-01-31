@@ -11,6 +11,7 @@ G
 H
 I
 J
+K
 L
 M
 N
@@ -24,4 +25,5 @@ R
 U
 V
 W
+X
 Y
